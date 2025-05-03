@@ -1,0 +1,32 @@
+📊 Excel Project Summary: Sales Report Analysis with Conditional Formatting
+✅ Client Requirement
+The client provided a dataset of employee sales performance and requested enhanced visual insights using conditional formatting. The goals were:
+
+Highlight Bonus Eligibility:
+Differentiate employees who are eligible for bonuses.
+✅ Green fill for "Yes" and ❌ Red fill for "No" in the "Bonus Eligible" column.
+
+Highlight Leave-Taking Employees:
+Visualize the number of leaves taken.
+
+📊 Data bars applied to the "Leaves Taken" column to show leave frequency.
+
+Highlight Top 10 Ratings:
+
+Identify top performers based on ratings.
+⭐ Applied Top 10 Rule using conditional formatting in the "Rating" column.
+
+🧾 What Was Done?
+
+Imported and cleaned a dataset with 100+ employee records.
+Applied three layers of conditional formatting to highlight critical insights:
+Bonus eligibility with color-coded indicators.
+Leave frequency using visual data bars.
+Top-rated employees using "Top 10" conditional rules.
+
+🎯 Client Requirement Fulfilled?
+
+✅ Yes, all client requirements were successfully met:
+Clear visual cues for bonus eligibility.
+Data bars offer intuitive insight into leaves taken.
+Top 10 performers are easily identifiable.
